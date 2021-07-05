@@ -1,5 +1,5 @@
 # Biodiversity_offset_effectiveness
-This repository contains code and input data used in the study 'Madagascar's biggest mine is set to achieve No Net Loss of Forest'
+This repository contains code and input data used in the submitted paper 'Madagascar's biggest mine is set to achieve No Net Loss of Forest'
 
 # Input data
 
