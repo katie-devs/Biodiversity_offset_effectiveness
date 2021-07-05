@@ -1,5 +1,5 @@
 # Biodiversity_offset_effectiveness
-This repository contains code and input data used in the submitted paper 'Madagascar's biggest mine is set to achieve No Net Loss of Forest'
+This repository contains code and input data used in the paper under review 'Madagascar's biggest mine is set to achieve No Net Loss of Forest'
 
 # Input data
 
@@ -20,9 +20,12 @@ These database files contain forest cover and annual tree loss data for the whol
 
 # Scripts
 
-1) Choosing_matching_spec. This details the alternative matching specifications trialled before selecting the main specification. 
-2) Offset_Effectiveness_Final2 is the code for the matching and outcome regressions using the main matching specification. This produces the main results presented in the paper.
-3) ... 
+1) Choosing_matching_spec - details the alternative matching specifications trialled before selecting the main specification. 
+2) Offset_Effectiveness_Final2 - code for the matching and outcome regressions using the main matching specification. This produces the main results presented in the paper.
+3) Figures - code used to produce the figures presented in the paper
+4) Offset_effectiveness_slim_loop_func3
+5) FE_loop
+6) Robustness_functions_v3
 
 
 
