@@ -29,7 +29,6 @@ These database files contain forest cover and annual tree loss data for the whol
 9) Adding_time_trend - tests the effect of including a time trend in the difference-in-differences regression. 
 10) Pop_density - shows the correlation of Population Density with the 5 essential covariates. 
 11) Impact_modelling_choices - regression to explore which modelling choices have the greatest influence on the estimated treatment effect using the 496 estimates from the robustness checks.
-
-
+12) 2B_AOB_spec_graph_modifiedhighlight - This is the code for the specification graphs developed by Ariel Ortiz-Bobea used to plot the results from our robustness checks (Ortiz-Bobea, A., Ault, T. R., Carrillo, C. M., Chambers, R. G. & Lobell, D. B. Anthropogenic climate change has slowed global agricultural productivity growth. doi:10.1038/s41558-021-01000-1.)
 
 
