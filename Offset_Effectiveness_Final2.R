@@ -1,4 +1,5 @@
-# Code by Katie Devenish. ktd19ycv@bangor.ac.uk
+# Code by Katie Devenish# and Sebastien Desbureaux. 
+# ktd19ycv@bangor.ac.uk
 
 # This code is used in the publication entitled "Madagascar's biggest mine is set to achieve No Net Loss of Forest"
 # Authors: Katie Devenish, Sebastien Desbureaux, Simon Willcock and Julia Jones. 2021.
