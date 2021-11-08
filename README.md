@@ -1,5 +1,5 @@
 # Biodiversity_offset_effectiveness
-This repository contains code and input data used in the paper under review 'Madagascar's biggest mine is set to achieve No Net Loss of Forest'
+This repository contains code and input data used in the paper under review 'Madagascar's biggest mine is on track to achieve No Net Loss of Forest' by Katie Devenish, Sebastien Desbureaux, Simon Willcock and Julia PG Jones. 
 
 # Input data
 
@@ -20,12 +20,16 @@ These database files contain forest cover and annual tree loss data for the whol
 
 # Scripts
 
-1) Choosing_matching_spec - details the alternative matching specifications trialled before selecting the main specification. 
+1) Choosing_matching_spec - details the alternative matching specifications tested for covariate balance before choosing the main specification. 
 2) Offset_Effectiveness_Final2 - code for the matching and outcome regressions using the main matching specification. This produces the main results presented in the paper.
 3) Figures - code used to produce the figures presented in the paper
-4) Offset_effectiveness_slim_loop_func3
-5) FE_loop
-6) Robustness_functions_v3
+4) Robustness_functions_v4_withyearloop -
+5) Offset_effectiveness_slim_lopp_func4 - 
+6) FE_loop - 4), 5) and 6) are the loops for the robustness checks
+9) Adding_time_trend - tests the effect of including a time trend in the difference-in-differences regression. 
+10) Pop_density - shows the correlation of Population Density with the 5 essential covariates. 
+11) Impact_modelling_choices - regression to explore which modelling choices have the greatest influence on the estimated treatment effect using the 496 estimates from the robustness checks.
+
 
 
 
